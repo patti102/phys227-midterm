@@ -2,7 +2,7 @@
 
 **Midterm Contestant:** Taylor Patti
 
-[![Build Status](https://travis-ci.org/patti102/phys227-midterm.msvg?branch=master)](https://travis-ci.org/patti102/phys227-midterm)
+[![Build Status](https://travis-ci.org/patti102/phys227-midterm.svg?branch=master)](https://travis-ci.org/patti102/phys227-midterm)
 
 **Due date:** Graciously extended to 2016/03/19
 

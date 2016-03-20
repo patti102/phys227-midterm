@@ -13,7 +13,7 @@ We got to play with chaos here, as well as its precursors. First we generated an
 
 ## My Thoughts on the Midterm
 
-This was super cool. Everybody loves chaos. This is the most fun thing we've done so far, although it was not the most challenging. The best part about it was that this is physics for which you absolutely need computation. Quantum stuff with no closed-form solution would also be cool, if we happen to get the chance.
+This was super cool. Everybody loves chaos. This is the most fun thing we've done so far, although it was not the most challenging. The best part about it was that this is physics for which you absolutely need computation. Quantum stuff with no closed-form solution would also be cool, but that's just my opinion and there are 5 of us.
 
 
 ## Honor Pledge

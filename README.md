@@ -23,7 +23,7 @@ I pledge that all the work in this repository is my own with only the following 
 * Content of starter files supplied by the instructor;
 * Code borrowed from another source, documented with correct attribution in the code and summarized here.
 
-I used the README and Travis linking files in my other homework repositories as a template for this one. I also got out my old Classical Mechanics textbook and read some of the chaos stuff. Although, this was mostly and didn't much relate directly to the assignment.
+I used the README and Travis linking files in my other homework repositories as a template for this one. I also got out my old Classical Mechanics textbook and read some of the chaos stuff. Although, this was mostly for amusement and didn't relate very directly to the assignment.
 
 Signed,
 Taylor Patti
